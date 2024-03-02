@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = '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'
+openai.api_key = 'TOKEN_API'
 
 # Initialize the chat with the first few messages
 messages = [
